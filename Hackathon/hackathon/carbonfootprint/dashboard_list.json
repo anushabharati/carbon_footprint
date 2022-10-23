@@ -1,0 +1,10 @@
+{
+    "devices": [
+        {
+            "name": "Ana's Alexa",
+            "status": 1
+        }],
+        "graph_data": [ ],
+        "number_trees": 2,
+        "carbon_calculator" : 5
+}
